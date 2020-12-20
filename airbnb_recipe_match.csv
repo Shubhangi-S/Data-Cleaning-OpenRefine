@@ -1,0 +1,25 @@
+Column,Match Count
+name,7497.0
+name_grel,7497.0
+name_grel_star,7497.0
+host_id,7594.0
+host_name,7593.0
+host_name 1,7593.0
+host_name 2,7594.0
+neighbourhood,7594.0
+neighbourhood_case,7594.0
+neighbourhood_loop,7594.0
+neighbourhood_cluster,7594.0
+latitude,7594.0
+longitude,7594.0
+room_type,7594.0
+price,7594.0
+price_crazy,7594.0
+minimum_nights,7594.0
+minimum_nights_long,7594.0
+number_of_reviews,7594.0
+last_review,7594.0
+last_review_timeless,7594.0
+reviews_per_month,7594.0
+calculated_host_listings_count,7594.0
+availability_365,7594.0
